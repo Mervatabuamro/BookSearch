@@ -1,8 +1,9 @@
 /* BookSearch.css */
 .book-list {
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
-  justify-content: space-around;
   padding: 20px;
 }
 
